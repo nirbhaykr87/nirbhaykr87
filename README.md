@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirbhaykr87&theme=juicyfresh" alt="nirbhaykr87" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack**
-- 💬 Ask me about **HTML,CSS,Javascript,PHP,MYSQL,React,Bootstrap**
+- 💬 Ask me about **HTML,CSS,Javascript,PHP,MYSQL,React,Bootstrap,Node.js,Express.js,MongoDB**
 - 📫 How to reach me **nirbhaysawan8757@gmail.com**
 - 👨‍💻 All of my projects are available at **[https://nirbhaykr.in/](https://nirbhaykumar.netlify.app/)**
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1y0-uh0aOmSMscYhBo9pn5hYoS2Ht0cxv/view?usp=drivesdk](https://drive.google.com/file/d/1LodnvNL7WfdZwm_eeam89FrSJcUpXbX4/view?usp=drivesdk)**
